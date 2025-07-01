@@ -10,7 +10,7 @@ A simple, human-friendly guide on how to sign into Sling TV account across diffe
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
 
 Sling TV offers a flexible way to stream live television, sports, news, and on-demand content without the burden of a traditional cable subscription. If you’re a current subscriber or just starting out, knowing how to sign into Sling TV account properly is key to unlocking your entertainment. This guide will walk you through every step and help troubleshoot any issues that might arise during the sign-in process.
 
