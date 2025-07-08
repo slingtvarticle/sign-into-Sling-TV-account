@@ -6,7 +6,7 @@ How Do I Sign Into My Sling TV Account Easily?
    :caption: Contents:
 A simple, human-friendly guide on how to sign into Sling TV account across different devices, fix login issues, and manage your streaming settings. 
  
-.. image:: https://expressvpn.readthedocs.io/en/latest/_images/sign-in.jpg
+.. image:: sign-in.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
